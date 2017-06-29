@@ -1,5 +1,13 @@
 \begin{thebibliography}{1}
 
+\bibitem{song2017}
+Yan Song*, \textbf{\textsc{Olga~B Botvinnik*}}, Michael~T Lovci, Boyko
+  Kakaradov, Patrick Liu, Jia~L Xu, and Gene Yeo.
+\newblock Single-cell alternative splicing analysis with expedition reveals
+  splicing dynamics during neuron differentiation.
+\newblock {\em Molecular Cell}, 2017.
+\newblock * These authors contributed equally to this work.
+
 \bibitem{Nutter:2016fd}
 Curtis~A Nutter, Elizabeth~A Jaworski, Sunil~K Verma, Vaibhav Deshmukh,
   Qiongling Wang, \textbf{\textsc{Olga~B Botvinnik}}, Mario~J Lozano, Ismail~J

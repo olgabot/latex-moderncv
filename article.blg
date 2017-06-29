@@ -1,46 +1,46 @@
-This is BibTeX, Version 0.99d (TeX Live 2016)
+This is BibTeX, Version 0.99d (TeX Live 2017)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: article.aux
 The style file: habbrvyrolgabold.bst
 Database file #1: articles.bib
-You've used 7 entries,
+You've used 8 entries,
             2217 wiz_defined-function locations,
-            567 strings with 6351 characters,
-and the built_in function-call counts, 4349 in all, are:
-= -- 395
-> -- 372
+            572 strings with 6610 characters,
+and the built_in function-call counts, 4829 in all, are:
+= -- 439
+> -- 413
 < -- 0
-+ -- 146
-- -- 139
-* -- 383
-:= -- 731
-add.period$ -- 22
-call.type$ -- 7
-change.case$ -- 84
++ -- 162
+- -- 154
+* -- 419
+:= -- 815
+add.period$ -- 26
+call.type$ -- 8
+change.case$ -- 94
 chr.to.int$ -- 0
-cite$ -- 7
-duplicate$ -- 155
-empty$ -- 187
-format.name$ -- 139
-if$ -- 795
+cite$ -- 8
+duplicate$ -- 174
+empty$ -- 207
+format.name$ -- 154
+if$ -- 883
 int.to.chr$ -- 0
-int.to.str$ -- 7
-missing$ -- 7
-newline$ -- 39
-num.names$ -- 21
-pop$ -- 87
+int.to.str$ -- 8
+missing$ -- 8
+newline$ -- 45
+num.names$ -- 24
+pop$ -- 98
 preamble$ -- 1
-purify$ -- 209
+purify$ -- 232
 quote$ -- 0
-skip$ -- 118
+skip$ -- 132
 stack$ -- 0
-substring$ -- 140
-swap$ -- 14
+substring$ -- 145
+swap$ -- 16
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 28
+type$ -- 32
 warning$ -- 0
-while$ -- 29
-width$ -- 8
-write$ -- 79
+while$ -- 32
+width$ -- 9
+write$ -- 91
