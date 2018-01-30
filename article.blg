@@ -3,44 +3,44 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: article.aux
 The style file: habbrvyrolgabold.bst
 Database file #1: articles.bib
-You've used 8 entries,
+You've used 9 entries,
             2217 wiz_defined-function locations,
-            572 strings with 6610 characters,
-and the built_in function-call counts, 4829 in all, are:
-= -- 439
-> -- 413
+            578 strings with 6919 characters,
+and the built_in function-call counts, 5188 in all, are:
+= -- 473
+> -- 439
 < -- 0
-+ -- 162
-- -- 154
-* -- 419
-:= -- 815
-add.period$ -- 26
-call.type$ -- 8
-change.case$ -- 94
++ -- 172
+- -- 163
+* -- 442
+:= -- 880
+add.period$ -- 29
+call.type$ -- 9
+change.case$ -- 101
 chr.to.int$ -- 0
-cite$ -- 8
-duplicate$ -- 174
-empty$ -- 207
-format.name$ -- 154
-if$ -- 883
+cite$ -- 9
+duplicate$ -- 189
+empty$ -- 226
+format.name$ -- 163
+if$ -- 951
 int.to.chr$ -- 0
-int.to.str$ -- 8
-missing$ -- 8
-newline$ -- 45
-num.names$ -- 24
-pop$ -- 98
+int.to.str$ -- 9
+missing$ -- 9
+newline$ -- 50
+num.names$ -- 27
+pop$ -- 106
 preamble$ -- 1
-purify$ -- 232
+purify$ -- 246
 quote$ -- 0
-skip$ -- 132
+skip$ -- 144
 stack$ -- 0
-substring$ -- 145
-swap$ -- 16
+substring$ -- 150
+swap$ -- 17
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 32
+type$ -- 36
 warning$ -- 0
-while$ -- 32
-width$ -- 9
-write$ -- 91
+while$ -- 35
+width$ -- 10
+write$ -- 102
