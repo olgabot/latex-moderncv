@@ -5,42 +5,42 @@ The style file: habbrvyrolgabold.bst
 Database file #1: articles.bib
 You've used 9 entries,
             2217 wiz_defined-function locations,
-            578 strings with 6919 characters,
-and the built_in function-call counts, 5188 in all, are:
-= -- 473
-> -- 439
-< -- 0
-+ -- 172
-- -- 163
-* -- 442
-:= -- 880
+            580 strings with 6821 characters,
+and the built_in function-call counts, 5191 in all, are:
+= -- 478
+> -- 423
+< -- 1
++ -- 166
+- -- 157
+* -- 439
+:= -- 873
 add.period$ -- 29
 call.type$ -- 9
-change.case$ -- 101
+change.case$ -- 98
 chr.to.int$ -- 0
 cite$ -- 9
-duplicate$ -- 189
-empty$ -- 226
-format.name$ -- 163
-if$ -- 951
+duplicate$ -- 192
+empty$ -- 236
+format.name$ -- 157
+if$ -- 962
 int.to.chr$ -- 0
 int.to.str$ -- 9
 missing$ -- 9
 newline$ -- 50
 num.names$ -- 27
-pop$ -- 106
+pop$ -- 103
 preamble$ -- 1
-purify$ -- 246
+purify$ -- 237
 quote$ -- 0
-skip$ -- 144
+skip$ -- 147
 stack$ -- 0
-substring$ -- 150
-swap$ -- 17
-text.length$ -- 0
+substring$ -- 169
+swap$ -- 22
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 36
 warning$ -- 0
-while$ -- 35
+while$ -- 38
 width$ -- 10
-write$ -- 102
+write$ -- 103

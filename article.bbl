@@ -1,5 +1,12 @@
 \begin{thebibliography}{1}
 
+\bibitem{TabulaMuris:2018gj}
+{Tabula Muris Consortium}.
+\newblock {Single-cell transcriptomics of 20 mouse organs creates a Tabula
+  Muris}.
+\newblock {\em Nature}, pages 1--25, Oct. 2018,
+  https://www.biorxiv.org/content/early/2017/12/20/237446.full.pdf.
+
 \bibitem{song2017}
 Yan Song*, \textbf{\textsc{Olga~B Botvinnik*}}, Michael~T Lovci, Boyko
   Kakaradov, Patrick Liu, Jia~L Xu, and Gene Yeo.
@@ -7,14 +14,6 @@ Yan Song*, \textbf{\textsc{Olga~B Botvinnik*}}, Michael~T Lovci, Boyko
   splicing dynamics during neuron differentiation.
 \newblock {\em Molecular Cell}, 2017.
 \newblock * These authors contributed equally to this work.
-
-\bibitem{237446}
-Tabula~Muris Consortium, Stephen~R. Quake, Tony Wyss-Coray, and Spyros
-  Darmanis.
-\newblock Transcriptomic characterization of 20 organs and tissues from mouse
-  at single cell resolution creates a tabula muris.
-\newblock {\em bioRxiv}, 2017,
-  https://www.biorxiv.org/content/early/2017/12/20/237446.full.pdf.
 
 \bibitem{Nutter:2016fd}
 Curtis~A Nutter, Elizabeth~A Jaworski, Sunil~K Verma, Vaibhav Deshmukh,
