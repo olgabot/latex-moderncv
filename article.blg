@@ -5,45 +5,45 @@ The style file: habbrvyrolgabold.bst
 Database file #1: articles.bib
 Warning--empty note in The_Tabula_Sapiens_Consortium2021-bo
 Warning--empty note in Botvinnik2021-hd
-You've used 13 entries,
+You've used 12 entries,
             2217 wiz_defined-function locations,
-            605 strings with 9035 characters,
-and the built_in function-call counts, 8267 in all, are:
-= -- 744
-> -- 756
+            600 strings with 8732 characters,
+and the built_in function-call counts, 8033 in all, are:
+= -- 721
+> -- 746
 < -- 1
-+ -- 299
-- -- 285
-* -- 716
-:= -- 1402
-add.period$ -- 41
-call.type$ -- 13
-change.case$ -- 172
++ -- 295
+- -- 282
+* -- 709
+:= -- 1356
+add.period$ -- 38
+call.type$ -- 12
+change.case$ -- 168
 chr.to.int$ -- 0
-cite$ -- 15
-duplicate$ -- 291
-empty$ -- 301
-format.name$ -- 285
-if$ -- 1488
+cite$ -- 14
+duplicate$ -- 280
+empty$ -- 283
+format.name$ -- 282
+if$ -- 1442
 int.to.chr$ -- 0
-int.to.str$ -- 13
-missing$ -- 11
-newline$ -- 70
-num.names$ -- 39
-pop$ -- 180
+int.to.str$ -- 12
+missing$ -- 10
+newline$ -- 65
+num.names$ -- 36
+pop$ -- 174
 preamble$ -- 1
-purify$ -- 431
+purify$ -- 426
 quote$ -- 0
-skip$ -- 236
+skip$ -- 226
 stack$ -- 0
-substring$ -- 190
+substring$ -- 185
 swap$ -- 25
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 52
+type$ -- 48
 warning$ -- 2
-while$ -- 50
-width$ -- 15
-write$ -- 142
+while$ -- 47
+width$ -- 14
+write$ -- 132
 (There were 2 warnings)

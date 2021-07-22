@@ -7,10 +7,10 @@
 \newblock July 2021.
 
 \bibitem{Botvinnik2021-hd}
-Olga~Borisovna Botvinnik, Venkata Naga~Pranathi Vemuri, N~Tessa~Pierce,
-  Phoenix~Aja Logan, Saba Nafees, Lekha Karanam, Kyle~Joseph Travaglini,
-  Camille~Sophie Ezran, Lili Ren, Yanyi Juang, Jianwei Wang, Jianbin Wang, and
-  C~Titus~Brown.
+\textbf{\textsc{Olga~B Botvinnik}}, Venkata Naga~Pranathi Vemuri,
+  N~Tessa~Pierce, Phoenix~Aja Logan, Saba Nafees, Lekha Karanam, Kyle~Joseph
+  Travaglini, Camille~Sophie Ezran, Lili Ren, Yanyi Juang, Jianwei Wang,
+  Jianbin Wang, and C~Titus~Brown.
 \newblock Single-cell transcriptomics for the 99.9\% of species without
   reference genomes.
 \newblock July 2021.
@@ -32,13 +32,6 @@ Sachin~J Shah, Peter~N Barish, Priya~A Prasad, Amy~L Kistler, Norma Neff, Jack
   covid-19.
 \newblock {\em medRxiv}, 2020,
   https://www.medrxiv.org/content/early/2020/05/06/2020.05.02.20082461.full.pdf.
-
-\bibitem{Botvinnik:2020}
-{Botvinnik, Olga B and Vemuri, Venkata Naga Pranathi and Logan, Phoenix Aja and
-  Nafees, Saba and Brown, C. Titus and Karkanias, Jim}.
-\newblock {Sencha directly translates RNA-seq reads to enable functional
-  prediction of transcriptomic `dark matter' across species}.
-\newblock {\em In preparation}, 2020.
 
 \bibitem{TabulaMuris:2018gj}
 {Tabula Muris Consortium}.
