@@ -3,44 +3,47 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: article.aux
 The style file: habbrvyrolgabold.bst
 Database file #1: articles.bib
-You've used 11 entries,
+Warning--empty note in The_Tabula_Sapiens_Consortium2021-bo
+Warning--empty note in Botvinnik2021-hd
+You've used 13 entries,
             2217 wiz_defined-function locations,
-            593 strings with 8375 characters,
-and the built_in function-call counts, 7350 in all, are:
-= -- 661
-> -- 669
+            605 strings with 9035 characters,
+and the built_in function-call counts, 8267 in all, are:
+= -- 744
+> -- 756
 < -- 1
-+ -- 264
-- -- 253
-* -- 641
-:= -- 1238
-add.period$ -- 35
-call.type$ -- 11
-change.case$ -- 151
++ -- 299
+- -- 285
+* -- 716
+:= -- 1402
+add.period$ -- 41
+call.type$ -- 13
+change.case$ -- 172
 chr.to.int$ -- 0
-cite$ -- 11
-duplicate$ -- 262
-empty$ -- 275
-format.name$ -- 253
-if$ -- 1330
+cite$ -- 15
+duplicate$ -- 291
+empty$ -- 301
+format.name$ -- 285
+if$ -- 1488
 int.to.chr$ -- 0
-int.to.str$ -- 11
+int.to.str$ -- 13
 missing$ -- 11
-newline$ -- 60
-num.names$ -- 33
-pop$ -- 159
+newline$ -- 70
+num.names$ -- 39
+pop$ -- 180
 preamble$ -- 1
-purify$ -- 382
+purify$ -- 431
 quote$ -- 0
-skip$ -- 208
+skip$ -- 236
 stack$ -- 0
-substring$ -- 179
+substring$ -- 190
 swap$ -- 25
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 44
-warning$ -- 0
-while$ -- 44
-width$ -- 13
-write$ -- 124
+type$ -- 52
+warning$ -- 2
+while$ -- 50
+width$ -- 15
+write$ -- 142
+(There were 2 warnings)
