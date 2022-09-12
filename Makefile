@@ -1,12 +1,15 @@
 
-CV_NAME = olga-botvinnik-cv
-ADVISOR_FOLDER = potential-advisors
+CV_NAME=olga-botvinnik-cv
+ADVISOR_FOLDER=potential-advisors
 ADVISOR_FILES=$(wildcard ${ADVISOR_FOLDER}/*.tex)
-COVER_FOLDER = cover-letters
+COVER_FOLDER=cover-letters
 
 
 cv: clean
 	TEX=${CV_NAME} make compile
+
+dance: clean
+	TEX=${CV_NAME}-$@ make compile
 
 clean:
 	# Remove BibTeX and TeX auxiliary files
@@ -14,6 +17,8 @@ clean:
 
 coverletter:
 	rm -rf ${COVER_FOLDER}/*
+
+	mkdir -p ${COVER_FOLDER}
 
 	# Copy the bibliographies to the cover letter folder
 	cp *.bib ${COVER_FOLDER}
