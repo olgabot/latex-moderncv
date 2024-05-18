@@ -8,7 +8,6 @@
 % available at http://www.latex-project.org/lppl/.
 
 \documentclass[11pt,letterpaper,serif]{moderncv/moderncv}
-
 \usepackage{verbatim}
 
 % moderncv themes
@@ -88,8 +87,13 @@
 
 \section{Experience}
 
-\cventry{Jan 2022 -- Present}{Bridge Bio Pharma}{}{San Francisco, CA}{Statistical Geneticist}{
+\cventry{Jan 2022 -- Present}{Bridge Bio Pharma}{}{San Francisco, CA}{Senior Computational Biologist}{
 Analyzed next-generation sequencing data to prioritize therapeutic targets for genetic diseases with unmet needs.
+\begin{itemize}
+    \item Analyzed PacBio long-read IsoSeq data of transcriptomes in cell models using Python (\texttt{gffutils, pandas, scikit-learn, Biopython, sourmash} in Jupyter Notebook).
+    \item Wrote Nextflow Workflows for long- and short-read sequencing data to support gene therapy programs in capsid evolution and AAV population sequencing.
+    \item Deployed Nextflow Workflows on Amazon Web Services Batch.
+\end{itemize}
 }
 
 \cventry{Jul -- Oct\\2021}{Arcadia Science}{}{San Francisco, CA}{Advisor}{
@@ -100,11 +104,11 @@ Provided advice to startup founders on data science and bioinformatics needs.
 Investigated biological datasets via machine learning algorithms using a hodgepodge of tools such as Git/GitHub, Rust, Python (\texttt{scikit-learn, pandas, jupyter notebook}, \textit{et al}), AWS, Docker, workflow management languages (\href{http://nextflow.io/}{Nextflow}, \href{https://github.com/grailbio/reflow}{Reflow}), mentored junior scientists and bioinformaticians as part of a fast-paced, diverse, and integrated team.\\
 Projects:
 \begin{itemize}
-\item Analyzed large single-cell transcriptome of mouse organs in collaboration with 50+ domain experts to create \emph{Tabula Muris} resource dataset (\href{https://github.com/czbiohub/tabula-muris}{github.com/czbiohub/tabula-muris}), paper published in \emph{Nature}
+\item Analyzed large single-cell transcriptome of mouse organs in collaboration with 50+ domain experts on \emph{Tabula Muris} resource (\href{https://github.com/czbiohub/tabula-muris}{github.com/czbiohub/tabula-muris}), published in \emph{Nature}
 \item Collaborated with a multidisciplinary team on \emph{Tabula Microcebus} the first single-cell atlas of a nonhuman primate, Mouse Lemur (\href{http://tabula-microcebus.ds.czbiohub.org/}{tabula-microcebus.ds.czbiohub.org})
-\item Wrote utility function in Rust to count $k$-mers in sequence data (\href{https://github.com/czbiohub/extract_kmers}{github.com/czbiohub/extract\_kmers})
-\item Contributed Python and some Rust code to ``sourmash'' software (\href{https://github.com/dib-lab/sourmash}{github.com/dib-lab/sourmash})
-\item Developed ``orpheum'' (\href{https://github.com/czbiohub/orpheum}{github.com/czbiohub/orpheum}) tool to extract likely protein-coding reading frames from RNA-seq data
+% \item Wrote utility function in Rust to count $k$-mers in sequence data (\href{https://github.com/czbiohub/extract_kmers}{github.com/czbiohub/extract\_kmers})
+\item Contributed Python and Rust code to ``sourmash'' software for genomic and metagenomic $k$-mer analyses (\href{https://github.com/dib-lab/sourmash}{github.com/dib-lab/sourmash})
+\item Developed ``orpheum'' (\href{https://github.com/olgabot/orpheum}{github.com/olgabot/orpheum}) tool to extract likely protein-coding reading frames from RNA-seq data.
 \item Led cross-species analyses projects to study ``dark matter'' of transcriptomes using subsampled $k$-mers from translated RNA-seq reads in a reduced amino acid alphabet, to find putative homologous genes across millions of years of evolution (\href{https://czbiohub.github.io/de-novo-orthology-paper/}{open draft manuscript})
 \item Pioneered weekly ``BioinformaticsBeyonce'' Twitch channel showcasing open source bioinformatics tools and research (\href{https://twitch.tv/bioinformaticsbeyonce}{twitch.tv/bioinformaticsbeyonce})
 \item Spearheaded weekly internal ``Cupcakes \& Coding'' sessions, alternating between facilitating tutorials taught by junior programmers to share coding knowledge, and pair programming sessions (\href{https://github.com/czbiohub/cupcakes}{github.com/czbiohub/cupcakes})
