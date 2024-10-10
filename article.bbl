@@ -1,10 +1,35 @@
 \begin{thebibliography}{10}
 
-\bibitem{The_Tabula_Sapiens_Consortium2021-bo}
-{The Tabula Sapiens Consortium} and Stephen~R Quake.
-\newblock The tabula sapiens: a single cell transcriptomic atlas of multiple
-  organs from individual human donors.
-\newblock July 2021.
+\bibitem{The_Tabula_Microcebus_Consortium2022-zo}
+{The Tabula Microcebus Consortium}, Camille Ezran, Shixuan Liu, Jingsi Ming,
+  Lisbeth~A Guethlein, Michael F~Z Wang, Roozbeh Dehghannasiri, Julia Olivieri,
+  Hannah~K Frank, Alexander Tarashansky, Winston Koh, Qiuyu Jing,
+  \textbf{\textsc{Olga~B Botvinnik}}, Jane Antony, Stephen Chang,
+  Angela~Oliveira Pisco, Jim Karkanias, Can Yang, James~E Ferrell, Scott~D
+  Boyd, Peter Parham, Jonathan~Z Long, Bo~Wang, Julia Salzman, Iwijn
+  De~Vlaminck, Angela Wu, Stephen~R Quake, and Mark~A Krasnow.
+\newblock Mouse lemur transcriptomic atlas elucidates primate genes,
+  physiology, disease, and evolution.
+\newblock {\em bioRxiv}, page 2022.08.06.503035, Aug. 2022.
+
+\bibitem{Tabula_Sapiens_Consortium2022-iy}
+{Tabula Sapiens Consortium}.
+\newblock {The Tabula Sapiens: A} multiple-organ, single-cell transcriptomic
+  atlas of humans.
+\newblock {\em Science}, 376(6594):eabl4896, May 2022.
+
+\bibitem{Reiter2022-co}
+Taylor~E Reiter, N~Tessa Pierce-Ward, Luiz Irber, \textbf{\textsc{Olga~B
+  Botvinnik}}, and C~Titus~Brown.
+\newblock Protein k-mers enable assembly-free microbial metapangenomics.
+\newblock {\em bioRxiv}, page 2022.06.27.497795, June 2022.
+
+\bibitem{Ezran2021-ci}
+C~Ezran, S~Liu, S~Chang, J~Ming, \textbf{\textsc{Olga~B Botvinnik}}, and
+  {others}.
+\newblock {Tabula Microcebus: A transcriptomic cell atlas of mouse lemur, an
+  emerging primate model organism}.
+\newblock {\em bioRxiv}, 2021.
 
 \bibitem{Botvinnik2021-hd}
 \textbf{\textsc{Olga~B Botvinnik}}, Venkata Naga~Pranathi Vemuri,
@@ -13,25 +38,31 @@
   Jianbin Wang, and C~Titus~Brown.
 \newblock Single-cell transcriptomics for the 99.9\% of species without
   reference genomes.
-\newblock July 2021.
+\newblock {\em bioRxiv}, page 2021.07.09.450799, July 2021.
 
-\bibitem{Shah2020.05.02.20082461}
-Sachin~J Shah, Peter~N Barish, Priya~A Prasad, Amy~L Kistler, Norma Neff, Jack
-  Kamm, Lucy~M Li, Charles~Y Chiu, Jennifer~M Babick, Margaret~C Fang, Yumiko
+\bibitem{Shah2020-qy}
+Sachin~J Shah, Peter~N Barish, Priya~A Prasad, Amy Kistler, Norma Neff, Jack
+  Kamm, Lucy~M Li, Charles~Y Chiu, Jennifer~M Babik, Margaret~C Fang, Yumiko
   Abe-Jones, Narges Alipanah, Francisco~N Alvarez, \textbf{\textsc{Olga~B
-  Botvinnik}}, Jennifer~M Davis, Gloria~D Castenada, CLIAHub Consortium, Rand~M
-  Dadasovich, Xianding Deng, Joseph~L DeRisi, Angela~M Detweiler, Scot
-  Federman, John~R Haliburton, Samantha~L Hao, Andrew~D Kerkhoff, Renuka Kumar,
-  Katherine Malcolm, Sabrina~A Mann, Sandra~P Martinez, Rupa Marya, Eran Mick,
-  Lusajo~L Mwakibete, Nader Najafi, Michael~J Peluso, Maira~S Phelps, Angela~O
-  Pisco, Kalani Ratnasiri, Luis~A Rubio, Anna~B Sellas, Kyla~D Sherwood,
-  Jonathan Sheu, Natasha Spottiswoode, Michelle Tan, Guixa Yu, Kirsten~N
-  Kangelaris, and Charles Langelier.
+  Botvinnik}}, Gloria Castaneda, {CZB CLIAhub Consortium}, Rand~M Dadasovich,
+  Jennifer Davis, Xianding Deng, Joseph~L DeRisi, Angela~M Detweiler, Scot
+  Federman, John Haliburton, Samantha Hao, Andrew~D Kerkhoff, G~Renuka Kumar,
+  Katherine~B Malcolm, Sabrina~A Mann, Sandra Martinez, Rupa~K Mary, Eran Mick,
+  Lusajo Mwakibete, Nader Najafi, Michael~J Peluso, Maira Phelps,
+  Angela~Oliveira Pisco, Kalani Ratnasiri, Luis~A Rubio, Anna Sellas, Kyla~D
+  Sherwood, Jonathan Sheu, Natasha Spottiswoode, Michelle Tan, Guixia Yu,
+  Kirsten~Neudoerffer Kangelaris, and Charles Langelier.
 \newblock Clinical features, diagnostics, and outcomes of patients presenting
-  with acute respiratory illness: a comparison of patients with and without
-  covid-19.
-\newblock {\em medRxiv}, 2020,
-  https://www.medrxiv.org/content/early/2020/05/06/2020.05.02.20082461.full.pdf.
+  with acute respiratory illness: A retrospective cohort study of patients with
+  and without {COVID-19}.
+\newblock {\em EClinicalMedicine}, 27:100518, Oct. 2020.
+
+\bibitem{Harris2020-oe}
+Lincoln Harris, Rohan Vanheusden, \textbf{\textsc{Olga~B Botvinnik}}, and
+  Spyros Darmanis.
+\newblock cerebra: A tool for fast and accurate summarizing of variant calling
+  format ({VCF}) files.
+\newblock {\em J. Open Source Softw.}, 5(54):2432, Oct. 2020.
 
 \bibitem{TabulaMuris:2018gj}
 {Tabula Muris Consortium}.
@@ -40,11 +71,19 @@ Sachin~J Shah, Peter~N Barish, Priya~A Prasad, Amy~L Kistler, Norma Neff, Jack
 \newblock {\em Nature}, pages 1--25, Oct. 2018,
   https://www.biorxiv.org/content/early/2017/12/20/237446.full.pdf.
 
+\bibitem{Klopfenstein2018-jb}
+D~V Klopfenstein, Liangsheng Zhang, Brent~S Pedersen, Fidel Ram{\'\i}rez, Alex
+  Warwick~Vesztrocy, Aur{\'e}lien Naldi, Christopher~J Mungall, Jeffrey~M
+  Yunes, \textbf{\textsc{Olga~B Botvinnik}}, Mark Weigel, Will Dampier,
+  Christophe Dessimoz, Patrick Flick, and Haibao Tang.
+\newblock {GOATOOLS}: {A Python library for Gene Ontology analyses}.
+\newblock {\em Sci. Rep.}, 8(1):10872, July 2018.
+
 \bibitem{song2017}
 Yan Song*, \textbf{\textsc{Olga~B Botvinnik*}}, Michael~T Lovci, Boyko
   Kakaradov, Patrick Liu, Jia~L Xu, and Gene Yeo.
-\newblock Single-cell alternative splicing analysis with expedition reveals
-  splicing dynamics during neuron differentiation.
+\newblock {Single-Cell Alternative Splicing Analysis with Expedition Reveals
+  Splicing Dynamics during Neuron Differentiation}.
 \newblock {\em Molecular Cell}, 2017.
 \newblock * These authors contributed equally to this work.
 

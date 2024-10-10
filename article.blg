@@ -1,49 +1,46 @@
-This is BibTeX, Version 0.99d (TeX Live 2017)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: article.aux
 The style file: habbrvyrolgabold.bst
 Database file #1: articles.bib
-Warning--empty note in The_Tabula_Sapiens_Consortium2021-bo
-Warning--empty note in Botvinnik2021-hd
-You've used 12 entries,
+You've used 17 entries,
             2217 wiz_defined-function locations,
-            600 strings with 8732 characters,
-and the built_in function-call counts, 8033 in all, are:
-= -- 721
-> -- 746
-< -- 1
-+ -- 295
-- -- 282
-* -- 709
-:= -- 1356
-add.period$ -- 38
-call.type$ -- 12
-change.case$ -- 168
+            634 strings with 10421 characters,
+and the built_in function-call counts, 12587 in all, are:
+= -- 1179
+> -- 1055
+< -- 4
++ -- 416
+- -- 399
+* -- 1035
+:= -- 1988
+add.period$ -- 53
+call.type$ -- 17
+change.case$ -- 239
 chr.to.int$ -- 0
-cite$ -- 14
-duplicate$ -- 280
-empty$ -- 283
-format.name$ -- 282
-if$ -- 1442
+cite$ -- 17
+duplicate$ -- 516
+empty$ -- 489
+format.name$ -- 399
+if$ -- 2404
 int.to.chr$ -- 0
-int.to.str$ -- 12
-missing$ -- 10
-newline$ -- 65
-num.names$ -- 36
-pop$ -- 174
+int.to.str$ -- 17
+missing$ -- 17
+newline$ -- 90
+num.names$ -- 51
+pop$ -- 255
 preamble$ -- 1
-purify$ -- 426
+purify$ -- 604
 quote$ -- 0
-skip$ -- 226
+skip$ -- 470
 stack$ -- 0
-substring$ -- 185
-swap$ -- 25
-text.length$ -- 1
+substring$ -- 380
+swap$ -- 142
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 48
-warning$ -- 2
-while$ -- 47
-width$ -- 14
-write$ -- 132
-(There were 2 warnings)
+type$ -- 68
+warning$ -- 0
+while$ -- 69
+width$ -- 19
+write$ -- 190
